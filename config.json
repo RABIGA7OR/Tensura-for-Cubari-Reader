@@ -1,0 +1,57 @@
+{
+  "title": "Tensei shitara Slime Datta Ken",
+  "description": "Description",
+  "artist": "Mitz Vah",
+  "author": "Fuse",
+  "cover": "https://cdn.myanimelist.net/images/manga/3/152383.jpg",
+  "chapters": {
+    "1": {
+      "title": "Death and Reincarnation",
+      "volume": "1",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/Q7FZ24K/"
+      },
+      "last_updated": "1616368746"
+    },
+    "2": {
+      "title": "Guardian of the Goblin Village",
+      "volume": "1",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/Q7FZ24K/"
+      },
+      "last_updated": "1616368746"
+    },
+    "3": {
+      "title": "Master of the Direwolves",
+      "volume": "1",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/Q7FZ24K/"
+      },
+      "last_updated": "1616368746"
+    },
+    "4": {
+      "title": "Head for the Dwarf Kingdom",
+      "volume": "1",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/Q7FZ24K/"
+      },
+      "last_updated": "1616368746"
+    },
+    "5": {
+      "title": "The Dwarven Craftsman",
+      "volume": "1",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/Q7FZ24K/"
+      },
+      "last_updated": "1616368746"
+    },
+    "6": {
+      "title": "The Fated One",
+      "volume": "1",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/Q7FZ24K/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
